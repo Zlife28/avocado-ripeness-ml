@@ -37,4 +37,4 @@ Packages listed in requirements.txt
 Dataset Source: 
 This dataset is sourced from [Kaggle - Avocado Ripeness Classification Dataset] (https://www.kaggle.com/datasets/amldvvs/avocado-ripeness-classification-dataset/data)
 It is licensed under the **Apache License 2.0**.  
-© Datasset owner: Amal Dev on Kaggle
+© Dataset owner: Amal Dev on Kaggle
